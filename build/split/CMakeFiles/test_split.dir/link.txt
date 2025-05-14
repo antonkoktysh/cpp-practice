@@ -1,0 +1,1 @@
+/opt/homebrew/bin/g++-14  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_split.dir/test.cpp.o -o ../test_split  ../_deps/catch2-build/src/libCatch2Main.a ../_deps/catch2-build/src/libCatch2.a

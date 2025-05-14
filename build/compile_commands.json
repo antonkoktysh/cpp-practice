@@ -1,0 +1,1208 @@
+[
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/catch_chronometer.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/catch_chronometer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_analyse.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_analyse.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_benchmark_function.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_benchmark_function.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_run_for_at_least.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_run_for_at_least.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/benchmark/detail/catch_stats.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/generators/catch_generator_exception.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/generators/catch_generator_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/generators/catch_generators.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/generators/catch_generators.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/generators/catch_generators_random.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/generators/catch_generators_random.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_automake.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_common_base.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_common_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_compact.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_console.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_cumulative_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_event_listener.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_event_listener.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_helpers.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_helpers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_json.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_json.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_junit.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_multi.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_multi.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_registrars.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_registrars.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_sonarqube.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_streaming_base.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_tap.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_teamcity.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/reporters/catch_reporter_xml.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_capture.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_capture.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_config.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_config.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_exception.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_generatortracker.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_generatortracker.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_registry_hub.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_registry_hub.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter_factory.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_reporter_factory.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_testcase.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/interfaces/catch_interfaces_testcase.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_approx.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_approx.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_assertion_result.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_assertion_result.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_config.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_config.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_get_random_seed.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_get_random_seed.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_message.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_message.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_registry_hub.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_registry_hub.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_session.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_session.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_tag_alias_autoregistrar.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_tag_alias_autoregistrar.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_test_case_info.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_test_case_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_test_spec.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_test_spec.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_timer.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_timer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_tostring.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_tostring.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_totals.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_totals.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_translate_exception.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_translate_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_version.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/catch_version.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_assertion_handler.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_case_insensitive_comparisons.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_case_insensitive_comparisons.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_clara.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_clara.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_commandline.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_console_colour.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_context.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_context.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_debug_console.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_debugger.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_decomposer.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_decomposer.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_enforce.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_enum_values_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_errno_guard.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_errno_guard.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_exception_translator_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_fatal_condition_handler.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_floating_point_helpers.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_floating_point_helpers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_getenv.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_getenv.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_istream.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_istream.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_jsonwriter.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_jsonwriter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_lazy_expr.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_lazy_expr.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_leak_detector.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_leak_detector.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_list.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_list.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_message_info.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_message_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_output_redirect.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_parse_numbers.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_parse_numbers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_polyfills.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_polyfills.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_random_number_generator.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_random_seed_generation.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_random_seed_generation.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_reporter_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_reporter_spec_parser.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_reporter_spec_parser.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_result_type.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_result_type.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_reusable_string_stream.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_reusable_string_stream.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_run_context.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_section.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_section.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_singletons.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_source_line_info.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_source_line_info.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_startup_exception_registry.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_startup_exception_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_string_manip.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_stringref.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_tag_alias_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_case_info_hasher.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_case_info_hasher.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_case_registry_impl.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_case_tracker.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_failure_exception.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_failure_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_registry.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_test_spec_parser.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_textflow.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_uncaught_exceptions.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_uncaught_exceptions.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_wildcard_pattern.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_xmlwriter.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_container_properties.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_container_properties.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_exception.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_exception.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating_point.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_floating_point.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_predicate.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_predicate.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_quantifiers.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_quantifiers.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_string.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/catch_matchers_templated.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_impl.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/matchers/internal/catch_matchers_impl.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/src",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -ffile-prefix-map=/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/= -o CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/internal/catch_main.cpp",
+  "output": "_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/multiplication",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_multiplication.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/multiplication/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/multiplication/test.cpp",
+  "output": "multiplication/CMakeFiles/test_multiplication.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bin-pow",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_binpow.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bin-pow/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bin-pow/test.cpp",
+  "output": "bin-pow/CMakeFiles/test_binpow.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/range",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_range.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/range/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/range/test.cpp",
+  "output": "range/CMakeFiles/test_range.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/unique",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_unique.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/unique/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/unique/test.cpp",
+  "output": "unique/CMakeFiles/test_unique.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/split",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_split.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/split/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/split/test.cpp",
+  "output": "split/CMakeFiles/test_split.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/polish-notation",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_polish_notation.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/polish-notation/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/polish-notation/test.cpp",
+  "output": "polish-notation/CMakeFiles/test_polish_notation.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/word-count",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_word_count.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/word-count/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/word-count/test.cpp",
+  "output": "word-count/CMakeFiles/test_word_count.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/permutations",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_permutations.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/permutations/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/permutations/test.cpp",
+  "output": "permutations/CMakeFiles/test_permutations.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/reverse-map",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_reverse_map.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/reverse-map/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/reverse-map/test.cpp",
+  "output": "reverse-map/CMakeFiles/test_reverse_map.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/long-sum",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_long_sum.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/long-sum/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/long-sum/test.cpp",
+  "output": "long-sum/CMakeFiles/test_long_sum.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/diff-pairs",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_diff_pairs.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/diff-pairs/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/diff-pairs/test.cpp",
+  "output": "diff-pairs/CMakeFiles/test_diff_pairs.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/quadratic",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_quadratic.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/quadratic/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/quadratic/test.cpp",
+  "output": "quadratic/CMakeFiles/test_quadratic.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/pt-triangle",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_pt_triangle.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/pt-triangle/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/pt-triangle/test.cpp",
+  "output": "pt-triangle/CMakeFiles/test_pt_triangle.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/factorization",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_factorization.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/factorization/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/factorization/test.cpp",
+  "output": "factorization/CMakeFiles/test_factorization.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/rotate",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_rotate.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/rotate/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/rotate/test.cpp",
+  "output": "rotate/CMakeFiles/test_rotate.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/sort-students",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_sort_students.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/sort-students/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/sort-students/test.cpp",
+  "output": "sort-students/CMakeFiles/test_sort_students.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/war",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_war.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/war/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/war/test.cpp",
+  "output": "war/CMakeFiles/test_war.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/filter-even",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_filter_even.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/filter-even/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/filter-even/test.cpp",
+  "output": "filter-even/CMakeFiles/test_filter_even.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/swap-sort",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_swap_sort.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/swap-sort/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/swap-sort/test.cpp",
+  "output": "swap-sort/CMakeFiles/test_swap_sort.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/entrance",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_entrance.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/entrance/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/entrance/test.cpp",
+  "output": "entrance/CMakeFiles/test_entrance.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/ring-buffer",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_ring_buffer.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/ring-buffer/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/ring-buffer/test.cpp",
+  "output": "ring-buffer/CMakeFiles/test_ring_buffer.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/matrix",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_matrix.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/matrix/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/matrix/test.cpp",
+  "output": "matrix/CMakeFiles/test_matrix.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/static-map",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_static_map.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/static-map/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/static-map/test.cpp",
+  "output": "static-map/CMakeFiles/test_static_map.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/string-view",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_string_view.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/string-view/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/string-view/test.cpp",
+  "output": "string-view/CMakeFiles/test_string_view.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/dungeon",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_dungeon.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/dungeon/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/dungeon/test.cpp",
+  "output": "dungeon/CMakeFiles/test_dungeon.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/stack",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_stack.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/stack/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/stack/test.cpp",
+  "output": "stack/CMakeFiles/test_stack.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/find-last",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_find_last.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/find-last/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/find-last/test.cpp",
+  "output": "find-last/CMakeFiles/test_find_last.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/local-max",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_local_max.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/local-max/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/local-max/test.cpp",
+  "output": "local-max/CMakeFiles/test_local_max.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/partition",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_partition.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/partition/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/partition/test.cpp",
+  "output": "partition/CMakeFiles/test_partition.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/fold",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_fold.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/fold/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/fold/test.cpp",
+  "output": "fold/CMakeFiles/test_fold.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/functors",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_functors.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/functors/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/functors/test.cpp",
+  "output": "functors/CMakeFiles/test_functors.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/itertools",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_itertools.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/itertools/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/itertools/test.cpp",
+  "output": "itertools/CMakeFiles/test_itertools.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer-debug",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/../raytracer-reader -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/../raytracer -I/opt/homebrew/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_debug_asan.dir/test_asan.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/test_asan.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/test_asan.cpp",
+  "output": "raytracer-debug/CMakeFiles/test_raytracer_debug_asan.dir/test_asan.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer-debug",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/../raytracer-reader -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/../raytracer -I/opt/homebrew/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_debug_release.dir/test_release.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/test_release.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-debug/test_release.cpp",
+  "output": "raytracer-debug/CMakeFiles/test_raytracer_debug_release.dir/test_release.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer-geom",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_geom.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-geom/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-geom/test.cpp",
+  "output": "raytracer-geom/CMakeFiles/test_raytracer_geom.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer-reader",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-reader/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_reader.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-reader/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-reader/test.cpp",
+  "output": "raytracer-reader/CMakeFiles/test_raytracer_reader.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/../raytracer-reader -I/opt/homebrew/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_asan.dir/test_asan.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/test_asan.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/test_asan.cpp",
+  "output": "raytracer/CMakeFiles/test_raytracer_asan.dir/test_asan.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/../raytracer-reader -I/opt/homebrew/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_release.dir/test_release.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/test_release.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer/test_release.cpp",
+  "output": "raytracer/CMakeFiles/test_raytracer_release.dir/test_release.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer-b2",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/../raytracer-reader -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/../raytracer -I/opt/homebrew/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_b2_asan.dir/test_asan.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/test_asan.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/test_asan.cpp",
+  "output": "raytracer-b2/CMakeFiles/test_raytracer_b2_asan.dir/test_asan.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/raytracer-b2",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/../raytracer-geom -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/../raytracer-reader -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/../raytracer -I/opt/homebrew/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_raytracer_b2_release.dir/test_release.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/test_release.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/raytracer-b2/test_release.cpp",
+  "output": "raytracer-b2/CMakeFiles/test_raytracer_b2_release.dir/test_release.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/advance",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_advance.dir/test_advance.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/advance/test_advance.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/advance/test_advance.cpp",
+  "output": "advance/CMakeFiles/test_advance.dir/test_advance.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/universal_find",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_universal_find.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/universal_find/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/universal_find/test.cpp",
+  "output": "universal_find/CMakeFiles/test_universal_find.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/vector",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_vector.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/vector/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/vector/test.cpp",
+  "output": "vector/CMakeFiles/test_vector.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/lru-cache",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_lru_cache.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/lru-cache/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/lru-cache/test.cpp",
+  "output": "lru-cache/CMakeFiles/test_lru_cache.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/cow-vector",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_cow_vector.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/cow-vector/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/cow-vector/test.cpp",
+  "output": "cow-vector/CMakeFiles/test_cow_vector.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/dedup",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_dedup.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/dedup/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/dedup/test.cpp",
+  "output": "dedup/CMakeFiles/test_dedup.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/smart-ptr",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_smart_ptr.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/smart-ptr/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/smart-ptr/test.cpp",
+  "output": "smart-ptr/CMakeFiles/test_smart_ptr.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/deque",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_deque.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/deque/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/deque/test.cpp",
+  "output": "deque/CMakeFiles/test_deque.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/deque",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_deque_memory.dir/test_memory.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/deque/test_memory.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/deque/test_memory.cpp",
+  "output": "deque/CMakeFiles/test_deque_memory.dir/test_memory.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/list",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_list.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/list/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/list/test.cpp",
+  "output": "list/CMakeFiles/test_list.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/calculator",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_calculator.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/calculator/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/calculator/test.cpp",
+  "output": "calculator/CMakeFiles/test_calculator.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/reader",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_reader.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/reader/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/reader/test.cpp",
+  "output": "reader/CMakeFiles/test_reader.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/libscheme.dir/parser.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/parser.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/parser.cpp",
+  "output": "scheme/CMakeFiles/libscheme.dir/parser.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/libscheme.dir/scheme.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/scheme.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/scheme.cpp",
+  "output": "scheme/CMakeFiles/libscheme.dir/scheme.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/scheme-repl.dir/repl/main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/repl/main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/repl/main.cpp",
+  "output": "scheme/CMakeFiles/scheme-repl.dir/repl/main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_boolean.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_boolean.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_boolean.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_boolean.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_control_flow.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_control_flow.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_control_flow.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_control_flow.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_eval.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_eval.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_eval.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_eval.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_integer.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_integer.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_integer.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_integer.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_lambda.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_lambda.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_lambda.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_lambda.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_list.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_list.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_list.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_list.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme.dir/tests/test_symbol.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_symbol.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/tests/test_symbol.cpp",
+  "output": "scheme/CMakeFiles/test_scheme.dir/tests/test_symbol.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme-tokenizer",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme_tokenizer.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme-tokenizer/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme-tokenizer/test.cpp",
+  "output": "scheme-tokenizer/CMakeFiles/test_scheme_tokenizer.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scheme-parser",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_scheme_parser.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme-parser/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scheme-parser/test.cpp",
+  "output": "scheme-parser/CMakeFiles/test_scheme_parser.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/safe-transform",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_transform.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/safe-transform/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/safe-transform/test.cpp",
+  "output": "safe-transform/CMakeFiles/test_transform.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/intrusive-list",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_intrusive_list.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/intrusive-list/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/intrusive-list/test.cpp",
+  "output": "intrusive-list/CMakeFiles/test_intrusive_list.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/any",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_any.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/any/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/any/test.cpp",
+  "output": "any/CMakeFiles/test_any.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/tryhard",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_tryhard.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/tryhard/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/tryhard/test.cpp",
+  "output": "tryhard/CMakeFiles/test_tryhard.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/pimpl",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_pimpl.dir/good.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/good.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/good.cpp",
+  "output": "pimpl/CMakeFiles/test_pimpl.dir/good.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/pimpl",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_pimpl.dir/ugly.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/ugly.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/ugly.cpp",
+  "output": "pimpl/CMakeFiles/test_pimpl.dir/ugly.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/pimpl",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_pimpl_memory.dir/test_release.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/test_release.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/test_release.cpp",
+  "output": "pimpl/CMakeFiles/test_pimpl_memory.dir/test_release.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/pimpl",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_pimpl_memory.dir/ugly.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/ugly.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/pimpl/ugly.cpp",
+  "output": "pimpl/CMakeFiles/test_pimpl_memory.dir/ugly.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/hello-http",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_hello_http.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/test.cpp",
+  "output": "hello-http/CMakeFiles/test_hello_http.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/hello-http",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_hello_http.dir/fake/fake_data.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/fake/fake_data.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/fake/fake_data.cpp",
+  "output": "hello-http/CMakeFiles/test_hello_http.dir/fake/fake_data.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/hello-http",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_hello_http.dir/weather.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/weather.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/weather.cpp",
+  "output": "hello-http/CMakeFiles/test_hello_http.dir/weather.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/hello-http",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/opt/homebrew/Cellar/poco/1.14.0/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/hello_http.dir/weather.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/weather.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/weather.cpp",
+  "output": "hello-http/CMakeFiles/hello_http.dir/weather.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/hello-http",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/opt/homebrew/Cellar/poco/1.14.0/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/hello_http.dir/main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/hello-http/main.cpp",
+  "output": "hello-http/CMakeFiles/hello_http.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/telegram.dir/telegram/api.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/api.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/api.cpp",
+  "output": "bot/CMakeFiles/telegram.dir/telegram/api.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/telegram.dir/telegram/bot.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/bot.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/bot.cpp",
+  "output": "bot/CMakeFiles/telegram.dir/telegram/bot.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/telegram.dir/telegram/client.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/client.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/client.cpp",
+  "output": "bot/CMakeFiles/telegram.dir/telegram/client.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/telegram.dir/telegram/main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/main.cpp",
+  "output": "bot/CMakeFiles/telegram.dir/telegram/main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/bot-run.dir/telegram/main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/telegram/main.cpp",
+  "output": "bot/CMakeFiles/bot-run.dir/telegram/main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_telegram.dir/tests/test_api.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/tests/test_api.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/tests/test_api.cpp",
+  "output": "bot/CMakeFiles/test_telegram.dir/tests/test_api.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/. -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_telegram.dir/tests/test_scenarios.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/tests/test_scenarios.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/tests/test_scenarios.cpp",
+  "output": "bot/CMakeFiles/test_telegram.dir/tests/test_scenarios.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot/fake",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/fake_telegram_server.dir/fake.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/fake/fake.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/fake/fake.cpp",
+  "output": "bot/fake/CMakeFiles/fake_telegram_server.dir/fake.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot/fake",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/fake_telegram_server.dir/fake_data.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/fake/fake_data.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/fake/fake_data.cpp",
+  "output": "bot/fake/CMakeFiles/fake_telegram_server.dir/fake_data.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bot/fake",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/usr/local/include -I/opt/homebrew/Cellar/openssl@3/3.4.0/include -I/opt/homebrew/Cellar/poco/1.14.0/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/run_fake_telegram_server.dir/fake_main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/fake/fake_main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bot/fake/fake_main.cpp",
+  "output": "bot/fake/CMakeFiles/run_fake_telegram_server.dir/fake_main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/scala-vector",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_immutable_vector.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/scala-vector/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/scala-vector/test.cpp",
+  "output": "scala-vector/CMakeFiles/test_immutable_vector.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/optional",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_optional.dir/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/optional/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/optional/test.cpp",
+  "output": "optional/CMakeFiles/test_optional.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/decoder",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/decoder/. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-src/src/catch2/.. -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/_deps/catch2-build/generated-includes -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wall -Werror -Wextra -Wpedantic -o CMakeFiles/test_decoder.dir/tests/test.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/decoder/tests/test.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/decoder/tests/test.cpp",
+  "output": "decoder/CMakeFiles/test_decoder.dir/tests/test.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bad-hash",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/bad_hash.dir/run.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-hash/run.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-hash/run.cpp",
+  "output": "bad-hash/CMakeFiles/bad_hash.dir/run.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bad-hash",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/bad_hash_solution.dir/solution/main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-hash/solution/main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-hash/solution/main.cpp",
+  "output": "bad-hash/CMakeFiles/bad_hash_solution.dir/solution/main.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bad-rand",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/bad_rand.dir/run.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-rand/run.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-rand/run.cpp",
+  "output": "bad-rand/CMakeFiles/bad_rand.dir/run.cpp.o"
+},
+{
+  "directory": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/build/bad-rand",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/antonkoktysh/Desktop/shad/antonkoktysh/tools/util -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/bad_rand_solution.dir/solution/main.cpp.o -c /Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-rand/solution/main.cpp",
+  "file": "/Users/antonkoktysh/Desktop/shad/antonkoktysh/bad-rand/solution/main.cpp",
+  "output": "bad-rand/CMakeFiles/bad_rand_solution.dir/solution/main.cpp.o"
+}
+]

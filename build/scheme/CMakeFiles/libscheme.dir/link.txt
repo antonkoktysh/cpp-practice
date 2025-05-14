@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibscheme.a CMakeFiles/libscheme.dir/parser.cpp.o CMakeFiles/libscheme.dir/scheme.cpp.o
+/usr/bin/ranlib liblibscheme.a

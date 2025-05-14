@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtelegram.a CMakeFiles/telegram.dir/telegram/api.cpp.o CMakeFiles/telegram.dir/telegram/bot.cpp.o CMakeFiles/telegram.dir/telegram/client.cpp.o CMakeFiles/telegram.dir/telegram/main.cpp.o
+/usr/bin/ranlib libtelegram.a

@@ -1,8 +1,8 @@
 #pragma once
 
+#include <cstddef>
 #include <cstdint>
 #include <iterator>
-#include <cstddef>
 
 class Vector {
 public:

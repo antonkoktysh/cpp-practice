@@ -1,0 +1,15 @@
+build/
+build-asan/
+
+.Cache/
+.cache/
+*~
+*.swp
+*.bak
+
+*.o
+*.out
+*.exe
+
+.vscode/
+.idea/
